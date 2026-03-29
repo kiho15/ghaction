@@ -7,4 +7,4 @@ jobs:
       - name: Print greeting
         run: echo "Hello my friend"
       - name: Goodbye
-        run: echo "Bye friend"
+        run: whoami
